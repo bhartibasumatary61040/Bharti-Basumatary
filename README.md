@@ -5,6 +5,7 @@
 ---
 
 ### 🌐 Socials:
+https://www.instagram.com/jojobharti_?igsh=NHY1eGw2OGVyd2Iy&utm_source=qr
 https://x.com/bharti_basuma4
 ---
 
@@ -12,6 +13,7 @@ https://x.com/bharti_basuma4
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)]()
 [![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)]()
+https://img.shields.io/badge/Automation-Selenium%20/Testing-61DAFB?logo=selenium&logoColor=white&style=for-the-badge
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)]()
 [![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)]()
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge)]()
