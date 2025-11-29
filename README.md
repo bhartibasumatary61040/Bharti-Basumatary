@@ -9,6 +9,7 @@
 🤔 I’m looking for help with Learning path for software automation(Selenium, Appium)
 
 🚀 Goal: Become a Test Automation Expert and contribute to large-scale automation solution
+
 ---
 
 ### 🌐 Socials:
