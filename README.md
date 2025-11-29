@@ -34,5 +34,4 @@
 ## 🏆 Certifications
 
 ### ISTQB Foundation Level v4.0
-README.md
-
+](https://github.com/bhartibasumatary61040/bhartibasumatary61040/blob/main/ISTQB%20CERTIFICATE01.jpg)
