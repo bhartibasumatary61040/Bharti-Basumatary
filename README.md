@@ -1,8 +1,8 @@
 
 # 🌟 Hi I am Bharti Basumatary
 
-👯 I’m looking to collaborate on Software Testing projects in the Banking domain.
 
+👯 I’m looking to collaborate on Software Testing projects in the Banking domain.
 🔍 Current Focus: Expanding skills in API Testing, Java 8 features & CI/CD  
 🚀 Goal: Become a Test Automation Expert and contribute to large-scale automation solution
 ---
