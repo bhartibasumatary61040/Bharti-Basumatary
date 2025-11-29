@@ -31,7 +31,10 @@
 
 ---
 
-### 🏅 Certifications
-- ISTQB Foundation Level v4.0
+## 🏆 Certifications
+
+### ISTQB Foundation Level v4.0
+[View ISTQB Certificate](https://github.com/yourusername/repo-name/blob/main/ISTQB%20CERTIFICATE.pdf)
+
 
 
