@@ -18,6 +18,8 @@
 ---
 
 ### 💻 Tech Stack:
+![Selenium](https://img.shields.io/badge/Selenium-Driver-blue?style=for-the-badge&logo=selenium) 
+![TestNG](https://img.shields.io/badge/TestNG-6DB33F?style=for-the-badge&logo=testng&logoColor=white)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)]()
 [![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)]()
@@ -33,5 +35,6 @@
 
 ## 🏆 Certifications
 
-### ISTQB Foundation Level v4.0
-](https://github.com/bhartibasumatary61040/bhartibasumatary61040/blob/main/ISTQB%20CERTIFICATE01.jpg)
+### ISTQB Foundation Level
+[View ISTQB Certificate](https://raw.githubusercontent.com/bhartibasumatary61040/bhartibasumatary61040/main/ISTQB%20CERTIFICATE01.jpg)
+
