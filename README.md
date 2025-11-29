@@ -37,4 +37,3 @@
 [View ISTQB Certificate](https://github.com/bhartibasumatary61040/bhartibasumatary61040/blob/main/ISTQB-CERTIFICATE.pdf)
 
 
-
