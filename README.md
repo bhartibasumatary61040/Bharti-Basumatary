@@ -4,8 +4,8 @@
 ---
 
 ### 🌐 Socials:
-https://www.instagram.com/jojobharti_?igsh=NHY1eGw2OGVyd2Iy&utm_source=qr
-https://x.com/bharti_basuma4
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jojobharti_?igsh=NHY1eGw2OGVyd2Iy&utm_source=qr)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/bharti_basuma4)
 ---
 
 ### 💻 Tech Stack:
