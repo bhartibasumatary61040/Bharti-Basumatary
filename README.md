@@ -1,5 +1,4 @@
-# Bharti-Basumatary
-<!-- Hi, I'm Bharti -style header -->
+
 # 🌟 Hi I am Bharti
 
 ---
