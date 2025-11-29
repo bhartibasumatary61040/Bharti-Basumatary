@@ -34,7 +34,7 @@
 ## 🏆 Certifications
 
 ### ISTQB Foundation Level v4.0
-[View ISTQB Certificate](https://github.com/yourusername/repo-name/blob/main/ISTQB-CERTIFICATE.pdf)
+[View ISTQB Certificate](https://github.com/bhartibasumatary61040/bhartibasumatary61040/blob/main/ISTQB-CERTIFICATE.pdf)
 
 
 
