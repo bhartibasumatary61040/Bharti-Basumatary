@@ -3,8 +3,11 @@
 
 
 🌱 I’m currently learning Web and API Automation using java
+
 👯 I’m looking to collaborate on Software Testing projects in the Banking domain.
+
 🤔 I’m looking for help with Learning path for software automation(Selenium, Appium)
+
 🚀 Goal: Become a Test Automation Expert and contribute to large-scale automation solution
 ---
 
