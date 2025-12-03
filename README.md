@@ -3,7 +3,7 @@
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bharatibasumatary61040@gmail.com)
 
 
-🌱 I’m currently learning Web and API Automation using java
+🌱 I’m currently learning Web and API Automation using java.
 
 👯 I’m looking to collaborate on Software Testing projects in the Banking domain.
 
