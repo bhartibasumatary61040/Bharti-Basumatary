@@ -1,6 +1,6 @@
 
 # 🌟 Hi I am Bharti Basumatary
-[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="30" width="40" />](mailto:bharatibasumatarypcf@gmail.com)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bharatibasumatary61040@gmail.com)
 
 
 🌱 I’m currently learning Web and API Automation using java
